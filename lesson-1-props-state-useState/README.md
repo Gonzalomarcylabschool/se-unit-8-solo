@@ -1,5 +1,7 @@
 # Lesson 8.1: Props vs State
 
+## [Video lecture](https://us02web.zoom.us/rec/play/LHWScfGDT3kI0nw3UIzMUVvwhXngFK3_7NTuy0dqtqcItm_9XWPD_kA6FIRVcKn6kaIlwWEUjS-N6HCe.1-hc_EuiXSAxwwmz?canPlayFromShare=true&from=share_recording_detail&startTime=1650465235000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FeSQ-5t0xVZ2W_sVXFh4oq5rJ5XUQ9ti2XHZY-XYdEpiLh-sn5EG0CwJdcXe1RWMT.WCaU9QJTXvnnTS-b%3FstartTime%3D1650465235000)
+
 ### Key Terms
 
 - state
