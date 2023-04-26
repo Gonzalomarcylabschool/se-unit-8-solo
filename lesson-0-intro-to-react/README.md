@@ -1,5 +1,8 @@
 # Lesson 8.0 - Intro to React
 
+## [Video Lecture](https://www.youtube.com/watch?v=MtgJ9U6Ur04)
+
+
 ### Key Terms:
 
 + React
